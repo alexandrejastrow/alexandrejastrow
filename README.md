@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandrejastrow
-- 👀 I’m interested in ...
-- 🌱 I'm currently learning JavaScript with typescript
+- 👀 I’m interested in interested in systems development, with a focus on backend
+- 🌱 I'm currently learning Python and the main frameworks like FastAPI and Django
 - 📫 How to reach me: alexandre.jastrow@gmail.com
 
 <!---

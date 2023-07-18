@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandrejastrow
 - 👀 I’m interested in interested in systems development, with a focus on backend
-- 🌱 I'm currently learning Python and the main frameworks like FastAPI and Django
+- 🌱 I'm currently working with Python and Django, in addition to having knowledge in other technologies such as , Postgres, Docker, RabbitMQ, AWS...
 - 📫 How to reach me: alexandre.jastrow@gmail.com
 
 <!---
